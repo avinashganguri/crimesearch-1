@@ -24,7 +24,7 @@ It contains 3 modules
 
 User need not to sign in/sign up he/she can directly open the site and search for anything. After submitting the key word it is searched in database for suitable match and results are displayed if present and if absent no results found message will be displayed.
 
-2. DETECTIVES:
+2. DETECTIVE:
 
 The Police / Detective should login and they are redirected to welcome page where they can use the advanced search feature of searching the criminals according to their geographical location and views the criminal list who might be suspects acco
 
