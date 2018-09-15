@@ -8,29 +8,29 @@
 
 • A user other than an official can use the search module for awareness by viewing crime related articles.
 
-## Link : [Crime Search Assistant](https://crime-search-assistant.000webhostapp.com)
+## Link : `[Crime Search Assistant](https://crime-search-assistant.000webhostapp.com)`
 
 ## Modules of the Application
 
 It contains 3 modules
 
-A. VISITOR
+_A_. VISITOR
 
-B. POLICE / DETECTIVE
+_B_. POLICE / DETECTIVE
 
-C. ADMIN
+_C_. ADMIN
 
 --------------------------------------------
 
-A. VISITOR:
+**A. VISITOR:**
 
 User need not sign in/sign up he/she can directly open the site and search for anything. After typing the key word it is searched in database for suitable match and results are displayed accordingly.If the keyword doesn't exist, no results found message will be displayed.
 
-B. DETECTIVE:
+**B. DETECTIVE:**
 
 The Police / Detective should login and they are redirected to welcome page where they can use the advanced search feature of searching the criminals according to their geographical location and views the criminal list who might be suspects according to their present status.
 
-C. ADMIN:
+**C. ADMIN:**
 
 Admin can add new links and information.He manages the police and user accounts if any problem persists, also he monitors the overall database.
 
