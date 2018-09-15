@@ -8,17 +8,17 @@
 
 • A user other than an official can use the search module for awareness by viewing crime related articles.
 
-## Link : `[Crime Search Assistant](https://crime-search-assistant.000webhostapp.com)`
+## Link : _[Crime Search Assistant](https://crime-search-assistant.000webhostapp.com)_
 
 ## Modules of the Application
 
 It contains 3 modules
 
-_A_. VISITOR
+_A. VISITOR_
 
-_B_. POLICE / DETECTIVE
+_B. POLICE / DETECTIVE_
 
-_C_. ADMIN
+_C. ADMIN_
 
 --------------------------------------------
 
