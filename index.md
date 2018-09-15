@@ -8,6 +8,8 @@
 
 • A user other than an official can use the search module for awareness by viewing crime related articles.
 
+## Link : 
+
 ## Modules of the Application
 
 It contains 3 modules
@@ -22,7 +24,7 @@ C. ADMIN
 
 A. VISITOR:
 
-User need not to sign in/sign up he/she can directly open the site and search for anything. After submitting the key word it is searched in database for suitable match and results are displayed if present and if absent no results found message will be displayed.
+User need not sign in/sign up he/she can directly open the site and search for anything. After typing the key word it is searched in database for suitable match and results are displayed accordingly.If the keyword doesn't exist, no results found message will be displayed.
 
 B. DETECTIVE:
 
