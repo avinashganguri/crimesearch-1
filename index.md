@@ -1,6 +1,6 @@
 ## Crime Search Assistant
 
-You can use the [editor on GitHub](https://github.com/spaceimpactor/CrimeSearch/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Crime Search Assistant is a web based project which aims in helping a crime to be solved in a faster and simpler way.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
