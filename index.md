@@ -2,7 +2,7 @@
 
 [Crime Search Assistant](https://www.crimesearch.online/) is a web based project which aims in helping a crime to be solved in a faster and simpler way.
 
-• A web-based project which displays the criminal records according to the type of crime in a particular location.
+• A web-based project which displays the criminal records according to the type of crime in a particular location.<br>
 • Only an eligible police officer/detective can register and view the details of a criminal data which can be a quick reference in solving a crime.
 
 ### Markdown
