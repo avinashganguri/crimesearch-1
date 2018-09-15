@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Crime Search Assistant
 
 You can use the [editor on GitHub](https://github.com/spaceimpactor/CrimeSearch/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
