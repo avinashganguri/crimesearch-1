@@ -26,9 +26,13 @@ User need not to sign in/sign up he/she can directly open the site and search fo
 
 2. DETECTIVE:
 
-The Police / Detective should login and they are redirected to welcome page where they can use the advanced search feature of searching the criminals according to their geographical location and views the criminal list who might be suspects acco
+The Police / Detective should login and they are redirected to welcome page where they can use the advanced search feature of searching the criminals according to their geographical location and views the criminal list who might be suspects according to their present status.
 
 3. ADMIN:
 
 Admin can add new links and information.He manages the police and user accounts if any problem persists, also he monitors the overall database.
+
+--------------------------------------------
+
+## Technologies used
 
