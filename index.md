@@ -34,5 +34,12 @@ Admin can add new links and information.He manages the police and user accounts 
 
 --------------------------------------------
 
-## Technologies used
+## Technologies and Tools used
 
+- HTML
+- CSS
+- BOOTSTRAP
+- PHP
+- Php MyAdmin
+- Xampp
+- Brackets 
