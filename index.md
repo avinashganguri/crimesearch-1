@@ -8,34 +8,25 @@
 
 • A user other than an official can use the search module for awareness by viewing crime related articles.
 
-### Markdown
+## Modules of the Application
 
-It includes conventions for
+It contains 3 modules
 
-```markdown
-Syntax highlighted code block
+•	VISITOR
 
-# Header 1
-## Header 2
-### Header 3
+•	POLICE / DETECTIVE
 
-- Bulleted
-- List
+•	ADMIN
 
-1. Numbered
-2. List
+1. VISITOR:-
 
-**Bold** and _Italic_ and `Code` text
+               In this module we need not to sign in/sign up he/she can directly open the site and search for anything in internet. Once when the user starts entering the key word the system will automatically generate suggestions. User may/may not select any of these suggestions. After submitting the key word it is searched in database for suitable match and results are displayed in a decreasing order of rank if present and if absent no results found message will be displayed. These results will be displayed as 10 results per page.  As soon as user clicks on a link the rank of link gets incremented by one and user will be redirected that particular website.
 
-[Link](url) and ![Image](src)
-```
+2.DETECTIVES :- 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+	  The Police / Detective should login and they are redirected to welcome page where they can use the advanced search feature of searching the criminals according to their geographical location and views the criminal list who might be suspects according to their prison status.
 
-### Jekyll Themes
+3. ADMIN :- 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spaceimpactor/CrimeSearch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+              Admin can add new links that are to be crawled and extract information. Here admin enters a URL which is checked for validity and then sent for crawling. If link is already is crawled it is not crawled if not it is crawled and results are stored into a database which is accessed by user to get the links according to his key word. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
