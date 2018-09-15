@@ -12,23 +12,23 @@
 
 It contains 3 modules
 
-1. VISITOR
+A. VISITOR
 
-2. POLICE / DETECTIVE
+B. POLICE / DETECTIVE
 
-3. ADMIN
+C. ADMIN
 
 --------------------------------------------
 
-1. VISITOR:
+A. VISITOR:
 
 User need not to sign in/sign up he/she can directly open the site and search for anything. After submitting the key word it is searched in database for suitable match and results are displayed if present and if absent no results found message will be displayed.
 
-2. DETECTIVE:
+B. DETECTIVE:
 
 The Police / Detective should login and they are redirected to welcome page where they can use the advanced search feature of searching the criminals according to their geographical location and views the criminal list who might be suspects according to their present status.
 
-3. ADMIN:
+C. ADMIN:
 
 Admin can add new links and information.He manages the police and user accounts if any problem persists, also he monitors the overall database.
 
