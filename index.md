@@ -20,7 +20,7 @@ It contains 3 modules
 
 1. VISITOR:-
 
-               In this module we need not to sign in/sign up he/she can directly open the site and search for anything in internet. Once when the user starts entering the key word the system will automatically generate suggestions. User may/may not select any of these suggestions. After submitting the key word it is searched in database for suitable match and results are displayed in a decreasing order of rank if present and if absent no results found message will be displayed. These results will be displayed as 10 results per page.  As soon as user clicks on a link the rank of link gets incremented by one and user will be redirected that particular website.
+           User need not to sign in/sign up he/she can directly open the site and search for anything. After submitting the key word it is searched in database for suitable match and results are displayed if present and if absent no results found message will be displayed.
 
 2.DETECTIVES :- 
 
@@ -28,5 +28,5 @@ It contains 3 modules
 
 3. ADMIN :- 
 
-              Admin can add new links that are to be crawled and extract information. Here admin enters a URL which is checked for validity and then sent for crawling. If link is already is crawled it is not crawled if not it is crawled and results are stored into a database which is accessed by user to get the links according to his key word. 
+          Admin can add new links and information.He manages the police and user accounts if any problem persists, also he monitors the overall database.
 
