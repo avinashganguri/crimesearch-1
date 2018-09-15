@@ -1,6 +1,6 @@
 ## Crime Search Assistant
 
-[Crime Search Assistant](https://crimesearch.online/) is a web based project which aims in helping a crime to be solved in a faster and simpler way.
+[Crime Search Assistant](https://crime-search-assistant.000webhostapp.com) is a web based project which aims in helping a crime to be solved in a faster and simpler way.
 
 • It displays the criminal records according to the type of crime in a particular location.
 
@@ -8,7 +8,7 @@
 
 • A user other than an official can use the search module for awareness by viewing crime related articles.
 
-## Link : [Crime Search Assistant](https://crimesearch.online/)
+## Link : [Crime Search Assistant](https://crime-search-assistant.000webhostapp.com)
 
 ## Modules of the Application
 
