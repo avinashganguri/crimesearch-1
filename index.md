@@ -7,7 +7,7 @@
 
 ### Markdown
 
-riting. It includes conventions for
+It includes conventions for
 
 ```markdown
 Syntax highlighted code block
