@@ -8,7 +8,7 @@
 
 • A user other than an official can use the search module for awareness by viewing crime related articles.
 
-## Link : 
+## Link : [Crime Search Assistant](https://www.crimesearch.online/)
 
 ## Modules of the Application
 
